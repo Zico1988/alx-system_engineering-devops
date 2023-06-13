@@ -1,1 +1,0 @@
-shell ini files,variable
